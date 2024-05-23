@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+add_result = a + b
+sub_result = a - b
+mult_result = a * b
+print(add_result)
+print(sub_result)
+print(mult_result)
